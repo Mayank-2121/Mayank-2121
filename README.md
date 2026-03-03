@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mayank Jha</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&background=000000&center=true&width=420&lines=+Hey+There!!+👋+This+is+MAYANK+JHA;">
+</p>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
 - 🔭 I’m currently working on [SkyVault: Secure Cloud File Storage System](https://github.com/Mayank-2121/SkyVault)
