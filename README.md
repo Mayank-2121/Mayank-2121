@@ -9,7 +9,7 @@
 <img align="right" src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="450">
 
 <p align="left">
-🎓 B.Tech CSE Graduate (2025) <br>
+🎓 B.Tech CSE Graduate (2026) <br>
 🔭 Currently building <b>SkyVault: Secure Cloud File Storage System</b> <br>
 🌱 Learning <b>React.js, Generative AI & System Design</b> <br>
 🤝 Open to collaborate on <b>Brain Tumor Segmentation using 3D U-Net</b> <br>
