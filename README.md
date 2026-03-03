@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mayank-2121.Mayank-2121&color=blue">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&background=000000&center=true&width=520&lines=Hey+There!!+👋+This+is+MAYANK+KUMAR+JHA;Full+Stack+Developer+🚀;AI+Enthusiast+🤖;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&background=000000&center=true&width=520&lines=Hey+There!!+👋+This+is+MAYANK+JHA;Full+Stack+Developer+🚀;AI+Enthusiast+🤖;">
 </p>
 
 <h3 align="center">Full Stack Developer | AI Enthusiast | Competitive Programmer</h3>
